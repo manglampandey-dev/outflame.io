@@ -1,0 +1,331 @@
+{
+  "version": "1.0",
+  "tool": "website_one_page",
+  "seed_url": "https://www.outflame.io/launch",
+  "seed_origin": "https://www.outflame.io:443",
+  "seed_host": "www.outflame.io",
+  "final_url": "https://www.outflame.io/launch?ff_seed=22",
+  "final_host": "www.outflame.io",
+  "origin_lock_mode": "host_only",
+  "captured_at": "2026-02-22T05:35:07.856957Z",
+  "base_href_used": false,
+  "base_href_value": null,
+  "budgets": {
+    "max_pages": 1,
+    "max_assets": 200,
+    "max_assets_per_page": 200,
+    "max_redirects": 5,
+    "max_css_import_depth": 2,
+    "max_html_bytes": 2097152,
+    "max_css_bytes": 1048576,
+    "max_asset_bytes": 104857600,
+    "max_total_asset_bytes": 52428800
+  },
+  "budgets_used": {
+    "pages": 1,
+    "assets": 0,
+    "total_asset_bytes": 0
+  },
+  "counts": {
+    "html_pages": 1,
+    "assets_total": 72,
+    "assets_included": 0,
+    "assets_excluded": 72
+  },
+  "excluded": [
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/683d6d0212736d766b460b4d_Fav%2032.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/683d6d0baf4a6f7a0bced7cd_Fav%20256.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d3c7f7011d14ca079c_raiting-img.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d3c7f7011d14ca07a0_cdto-site-image.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d3c7f7011d14ca07a7_case.avif",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d3c7f7011d14ca07af_case2-p-500.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d3c7f7011d14ca07af_case2.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07ba_Dark%20Version.avif",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07ba_Dark%2520Version-p-500.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07c5_Free%20MacBook%20Pro%20On%20The%20Cabinet%20Mockup%201.avif",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07ca_popular.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07cb_plan-blur.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07cd_Speed%20with%20Focus.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07ce_Real-world%20Validation.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07cf_icon1.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07d0_icon2.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07d1_icon3.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07d2_icon4.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07d7_price-blur%20(1).avif",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07e1_advantage-blur.avif",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07e7_Our%20Approach.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07e8_Clarity%20First.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07e9_icon5.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07ea_wewbdesign.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07eb_logos.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07ec_branding.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07ed_unique-value-proposition.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07ee_slide-decs.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07ef_email-templates.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07f0_Outflame_logo%206.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/695390d4c7f7011d14ca07f8_storm_upscayl_2x_digital-art-4x%20(1).avif",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/css/outflame.webflow.shared.58c486b95.css",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/js/webflow.acc1fc31.970cb21cbc006193.js",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/js/webflow.schunk.36b8fb49256177c8.js",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/js/webflow.schunk.9de9f05ab14cf3af.js",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/681b1477a0a84f2c5c56b47e/js/webflow.schunk.9dfb96661114d3db.js",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68dba5b4365964cfd98f8043_description-trust-founders-poster-00001.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68dba5b4365964cfd98f8043_description-trust-founders-transcode.mp4",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68dba5b4365964cfd98f8043_description-trust-founders-transcode.webm",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68dcf37fd3f5d7566fc3dfbd_Abstract_objects_%28dark_theme%29-poster-00001.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68dcf37fd3f5d7566fc3dfbd_Abstract_objects_%28dark_theme%29-transcode.mp4",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68dcf37fd3f5d7566fc3dfbd_Abstract_objects_%28dark_theme%29-transcode.webm",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e3c6711e4028d1ade82938_energy%20flow%206-poster-00001.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e3c6711e4028d1ade82938_energy%20flow%206-transcode.mp4",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e3c6711e4028d1ade82938_energy%20flow%206-transcode.webm",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e501e59a734865b78a12a3_Planet-1-loop-poster-00001.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e501e59a734865b78a12a3_Planet-1-loop-transcode.mp4",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e501e59a734865b78a12a3_Planet-1-loop-transcode.webm",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e507c0574cc89fe8bd638f_Planet-2-poster-00001.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e507c0574cc89fe8bd638f_Planet-2-transcode.mp4",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e507c0574cc89fe8bd638f_Planet-2-transcode.webm",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e50b2119a8e66949ee9127_Planet-3-poster-00001.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e50b2119a8e66949ee9127_Planet-3-transcode.mp4",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e50b2119a8e66949ee9127_Planet-3-transcode.webm",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e50f0f8eb88abaaf2e4de3_Planet-4-poster-00001.jpg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e50f0f8eb88abaaf2e4de3_Planet-4-transcode.mp4",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4%2F68e50f0f8eb88abaaf2e4de3_Planet-4-transcode.webm",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68dbaea0a874ba4bd8ca9efe_phone.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68dfbbc79d3b8aba7c7bc6ac_check-circle.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68dfbdf8164039ea39f4db07_arrow-right.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68dfcccec1ed2019c7313123_card-bottom-blur.png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68dfce761ba78519fd2bcc8d_Marketing%20Consultation%20icon.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68dfd1d2c2ec5bde99d2c47c_Pitch%20Deck%20icon.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68dfd1fde2e5b1169dcc4262_Fractional%20CMO%20icon.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68e0e69e450006447a806a1d_Slava%20(1).png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68e0e6a74966bd9355341ab8_Sergiy%20(1).png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68e0e711b8c19c27b963474d_Kate%20(1).png",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68e2354ce35ba8004828512e_123.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/68d287d3806a1552f46b3aa4/68e3dcb0b32b8b9bef186572_Ongoing%20Support%20icon.svg",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://challenges.cloudflare.com/turnstile/v0/api.js",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=681b1477a0a84f2c5c56b47e",
+      "reason": "cross_origin_blocked"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-6LM5G429BE",
+      "reason": "cross_origin_blocked"
+    }
+  ],
+  "mapping": {},
+  "heuristics": {
+    "script_src_count": 7,
+    "meaningful_elements": 130,
+    "text_content_length": 5137
+  }
+}
